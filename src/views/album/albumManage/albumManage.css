@@ -1,0 +1,12 @@
+.albumManage {
+  width: 768px;
+  height: 90%;
+  overflow: auto;
+  padding: 0px 2%;
+  box-sizing: border-box;
+}
+
+.albumManage .el-table {
+  overflow: initial;
+  text-align: center;
+}

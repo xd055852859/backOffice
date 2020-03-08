@@ -1,0 +1,53 @@
+.linkName {
+  width: 100%;
+  height: 100%;
+  color: #fff;
+  text-decoration: none;
+  padding: 20px 40px 20px 0px;
+}
+
+.index-container {
+  background: url("../../assets/index-bg.png") center center no-repeat;
+}
+
+.indexIcon {
+  width: 14px;
+  margin-right: 10px;
+}
+
+.logo-icon {
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+.logo-title {
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+
+.loginOut-button {
+  width: 12.5%;
+  height: 40px;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  background: rgba(8, 16, 63, 0.50);
+  font-size: 16px;
+  line-height: 40px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.loginOut-picture {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+#aside .el-menu-item.is-active {
+  background-color: rgba(8,16,63,0.50) !important
+}

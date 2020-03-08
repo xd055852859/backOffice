@@ -1,0 +1,134 @@
+.editor-container,
+.imageText-container,
+.album-container {
+  width: 95%;
+  height: 505px;
+  margin-top: 15px;
+  margin: 15px 2.5%;
+  border: 1px solid #E8E8EA;
+}
+
+.album-container {
+  padding: 18px 24px;
+  box-sizing: border-box;
+}
+
+.imageText-title {
+  height: 51px;
+  border-bottom: 1px solid #E8E8EA;
+  line-height: 51px;
+  font-size: 18px;
+  color: #545454;
+}
+
+.imageText-info,
+.imageEmptyText-info {
+  height: 400px;
+  width: 100%;
+  overflow: auto;
+}
+
+.imageEmptyText-info {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.imageTextItem {
+  width: 100%;
+  height: 120px;
+  padding: 10px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #E8ECF0;
+  background: #FAFAFA;
+}
+
+.imageText-info span {
+  width: 100%;
+}
+
+.article-upload {
+  position: relative;
+  overflow: hidden;
+}
+
+.article-upload input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 3;
+  opacity: 0;
+}
+
+.imageTextItem span {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.imageTextItem-avatar,
+.imageTextItem-header {
+  height: 100px;
+  width: 100px;
+  margin-right: 15px;
+}
+
+.imageTextItem-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F0F1F4;
+}
+
+.imageTextItem-header img {
+  width: 44px;
+  height: 44px;
+}
+
+.imageTextItem-textarea {
+  width: 80%;
+  margin-right: 15px;
+}
+
+.album-upload {
+  height: 180px;
+  width: 180px;
+  background: #F0F1F4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  color: #D3D3D3;
+  margin-top: 77px;
+}
+
+.publishArticle-tools {
+  width: 100%;
+  padding: 0 2.5% 20px 2.5%;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+.publishArticle-tools div {
+  height: 40px;
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.tool-title {
+  width: 100px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 14px;
+}
+
+#publishArticle .el-input {
+  width: 300px;
+}

@@ -1,0 +1,45 @@
+{
+  "activeIndex": "1",
+  "app": "0",
+  "appOption": [{
+      "value": "0",
+      "label": "Home+"
+    },
+    {
+      "value": "1",
+      "label": "时光宝库"
+    }
+  ],
+  "publish": "",
+  "puslishOption": [{
+      "value": "1",
+      "label": "公开,所有用户可见"
+    },
+    {
+      "value": "0",
+      "label": "私密,仅自己可见"
+    },
+    {
+      "value": "2",
+      "label": "所有用户可见"
+    }
+  ],
+  "music": "",
+  "musicOptions": [],
+  "isSelect": "1",
+  "series": "",
+  "seriesOptions": [],
+  "location": "",
+  "locationOptions": [],
+  "time": "",
+  "timeOptions": [],
+  "editor": {},
+  "editorConfig": {
+    "language": "zh-cn",
+    "toolbar": ["heading", "|", "bold", "italic", "link", "bulletedList", "numberedList", "imageUpload", "blockQuote", "insertTable", "mediaEmbed", "undo", "redo"]
+  },
+  "domain": "http://cdn-icare.qingtime.cn/",
+  "uptoken": "",
+  "data": "",
+  "textarea": ""
+}

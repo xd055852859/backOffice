@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>退出</title>
+    <desc>Created with Sketch.</desc>
+    <g id="组件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="退出" fill="#FFFFFF">
+            <polygon id="路径" points="1.83348254 1.83348254 9.16741271 1.83348254 9.16741271 0 0 0 0 14.6678603 9.16741271 14.6678603 9.16741271 12.8343778 1.83348254 12.8343778"></polygon>
+            <polygon id="路径" points="14.70453 6.04132498 11.4592659 2.79606088 10.1666607 4.08866607 12.4860161 6.4171889 5.50044763 6.4171889 5.50044763 8.25067144 12.4860161 8.25067144 10.1666607 10.5791943 11.4592659 11.8717995 14.70453 8.62653536 15.9971352 7.33393017"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,34 @@
+.album-header {
+  display: flex;
+}
+
+#album .el-menu--horizontal>.el-menu-item {
+  height: 52px;
+  line-height: 52px;
+}
+
+.album-table {
+  display: flex;
+  min-height: 500px;
+}
+
+.album-nav {
+  width: 172px;
+  background-color: #F2F2F2 !important;
+  margin-right: 20px;
+  position: relative;
+}
+
+.album-nav li {
+  width: 100%;
+  text-align: center;
+}
+
+.album-button {
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  bottom: 10px;
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,54 @@
+#user {
+  width: 100%;
+  background-color: #fff;
+  min-height: 100%;
+  position: relative;
+}
+
+.role-header {
+  height: 52px;
+  width: 100%;
+  line-height: 52px;
+  font-size: 20px;
+  color: #333;
+  padding: 0px 24px;
+  box-sizing: border-box;
+  border-bottom: 1px solid #E8ECF0;
+}
+
+.role-tool {
+  width: 100%;
+  margin-top: 15px;
+  padding: 0px 24px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.role-input {
+  width: 355px;
+}
+
+.role-data {
+  width: 100%;
+  margin-top: 15px;
+  padding: 0px 24px;
+  box-sizing: border-box;
+}
+
+.table-avatar {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.role-footer {
+  width: 100%;
+  height: 50px;
+  margin-top: 30px;
+  padding: 0px 24px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: flex-end;
+}

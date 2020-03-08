@@ -1,0 +1,8 @@
+.familyTree-header {
+  display: flex;
+}
+
+#familyTree .el-menu--horizontal>.el-menu-item {
+  height: 52px;
+  line-height: 52px;
+}

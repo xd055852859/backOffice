@@ -1,0 +1,21 @@
+.article-header {
+  display: flex;
+}
+
+.text-picture {
+  width: 120px;
+  height: 80px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text-picture img{
+  width:100%;
+}
+#article .el-menu--horizontal>.el-menu-item,
+#reviewArticle .el-menu--horizontal>.el-menu-item,
+#publishArticle .el-menu--horizontal>.el-menu-item {
+  height: 52px;
+  line-height: 52px;
+}

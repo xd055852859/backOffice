@@ -1,0 +1,66 @@
+/* #home {
+  width: 100%;
+  background-color: #04153D;
+  min-height: 100%;
+  position: relative;
+}
+
+.home-nav {
+  height: 150px;
+  background: transparent;
+  display: flex;
+   align-items: flex-end;
+  justify-content: space-between;
+  color: #666666;
+  padding: 5% 2%;
+  box-sizing: border-box;
+}
+
+.home-text {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+
+.home-text div {
+  width: 100%;
+  text-align: center;
+}
+
+.chartIcon-container {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-content: flex-end;
+  align-items: flex-end;
+}
+
+.chartIcon {
+  width: 60px;
+}
+
+#chart_example {
+  height: 350px;
+  width: 100%;
+  background-color: #fff;
+  padding: 16px;
+  margin: 16px 0px 32px 0px;
+  box-sizing: border-box;
+}
+
+.home-chart {
+  height: 380px;
+  padding: 8px;
+  background-color: #fff;
+  box-sizing: border-box;
+}
+
+#chart_left,
+#chart_middle,
+#chart_right {
+  height: 350px;
+  width: 100%;
+} */

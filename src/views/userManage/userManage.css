@@ -1,0 +1,96 @@
+.userManage-navContainer {
+  width: 100%;
+  height: 90px;
+  margin-bottom: 10px;
+  padding: 0 24px;
+  box-sizing: border-box;
+  display: flex;
+  align-content: center;
+}
+
+.userManage-nav {
+  width: 110px;
+  height: 70px;
+  color: #000;
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  border: 1px solid #CCCCCC;
+  margin-right: 12px;
+  border-radius: 4px;
+}
+
+.userManage-nav div {
+  width: 100%;
+  margin: 5px 0;
+  padding: 0px 14px;
+}
+
+.userManage-container {
+  height: 40px;
+  width: 100%;
+  margin: 20px 0px;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+}
+
+.userManage-info {
+  width: 75%;
+  display: flex;
+}
+
+.userManage-avatar {
+  width: 5%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 2.5%;
+
+}
+
+.userManage-avatar img {
+  width: 50px;
+  height: auto;
+  border-radius: 50%;
+}
+
+.userManage-nickName {
+  width: 20%;
+}
+
+.userManage-role {
+  margin: 10px 0;
+}
+
+.userManage-button {
+  width: 15%;
+  /* display: flex;
+  justify-content: flex-end; */
+}
+
+.userManage-info-button {
+  display: flex;
+  align-items: center;
+}
+
+.userManage-button-item,
+.userManage-button-unitem {
+  padding: 0px 13px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  background: #EAF6FE;
+  border-radius: 15px;
+  font-size: 14px;
+  color: #0091FF;
+  box-sizing: border-box;
+  margin-right: 20px;
+}
+
+.userManage-button-unitem {
+  background: #E8ECF0;
+  color: #999999;
+}
